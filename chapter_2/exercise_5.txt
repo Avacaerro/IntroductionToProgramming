@@ -1,0 +1,18 @@
+x = 0
+3.times do
+  x += 1
+end
+puts x
+
+y = 0
+3.times do
+  y += 1
+  x = y
+end
+puts x
+
+
+What does x print to the screen in each case? Do they both give errors? Are the errors different? Why?
+
+In the first case x will print 3. In the second case x will print nothing and an error will report
+stating that the local variable x does not exist. x is not available outside the scope of the times block. 
