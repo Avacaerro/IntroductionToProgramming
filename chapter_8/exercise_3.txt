@@ -1,0 +1,5 @@
+# What is exception handling and what problem does it solve?
+
+# Exception handling is a method of dealing with errors or invalid input
+# that may arise in a program. Instead of halting execution it will allow the
+# program to produce output for the exception and continue running.
