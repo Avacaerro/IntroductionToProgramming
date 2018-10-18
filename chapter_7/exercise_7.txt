@@ -1,0 +1,6 @@
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+
+# my_hash is created using a symbol as a key. my_hash2
+# is using a string as a key.
