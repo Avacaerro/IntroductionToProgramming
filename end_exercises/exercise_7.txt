@@ -1,0 +1,4 @@
+# What's the major difference between an Array and a Hash?
+
+An array is an index based structure(0..x).
+A hash is a key value pair structure. More useful for organizing data with labels.
