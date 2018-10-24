@@ -1,0 +1,5 @@
+# Using the ruby documentation, determine how you can write large numbers in a way that makes them easier to read.
+
+https://ruby-doc.org/core-2.5.1/doc/syntax/literals_rdoc.html
+Literals can be used to write integers of any size by adding underscores to the number.
+1_234 == 1234

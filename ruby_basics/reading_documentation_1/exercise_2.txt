@@ -1,0 +1,4 @@
+# Locate the description of the while loop in the ruby documentation
+
+Core API > New to Ruby? > control expressions 
+https://ruby-doc.org/core-2.5.1/doc/syntax/control_expressions_rdoc.html
